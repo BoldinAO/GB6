@@ -1,0 +1,158 @@
+University of Alabama
+Jacksonville State University
+University of Montevallo
+Troy University
+University of West Alabama
+University of Alaska Fairbanks
+Arizona State University
+Northern Arizona University
+University of Arkansas
+Henderson State University
+California State University
+Adams State University
+University of Colorado
+Colorado Mesa University
+University of Northern Colorado
+Western Colorado University
+Connecticut State University
+Charter Oak State College
+University of Connecticut
+University of Delaware
+Delaware State University
+University of the District of Columbia
+Florida Atlantic University
+Florida International University
+Florida State University
+New College of Florida
+University of Florida
+Albany State University
+Armstrong State University
+Augusta University
+Bainbridge State College
+Clayton State University
+College of Coastal Georgia
+Columbus State University
+Dalton State College
+East Georgia State College
+Fort Valley State University
+Georgia Gwinnett College
+Georgia Highlands College
+Georgia Southern University
+Georgia State University
+Gordon State College
+Kennesaw State University
+Savannah State University
+South Georgia State College
+University of Georgia
+Valdosta State University
+University of Guam
+University of Hawai'i
+Boise State University
+University of Idaho
+Idaho State University
+Chicago State University
+Eastern Illinois University
+University of Illinois
+Ball State University
+Indiana University
+Indiana State University
+Purdue University
+Vincennes University
+University of Iowa
+Iowa State University
+Emporia State University
+Fort Hays State University
+University of Kansas
+Pittsburg State University
+Wichita State University
+University of Kentucky
+Kentucky State University
+University of Louisville
+Morehead State University
+Murray State University
+Louisiana State University
+Nicholls State University
+University of Maine
+Morgan State University
+Bowie State University
+Salisbury University
+Coppin State University
+Frostburg State University
+University of Baltimore
+Towson University
+University of Massachusetts
+Bridgewater State University
+Fitchburg State University
+Salem State University
+Westfield State University
+Worcester State University
+Oakland University
+Ferris State University
+Lake Superior State University
+Winona State University
+Bemidji State University
+Alcorn State University
+Delta State University
+Jackson State University
+University of Mississippi
+Missouri State University
+Lincoln University of Missouri
+Truman State University
+Montana State University
+University of Montana
+Nebraska State College
+University of Nebraska
+University of Nevada
+Nevada State College
+Great Basin College
+Granite State College
+Plymouth State University
+Keene State College
+University of New Hampshire
+Kean University
+The College of New Jersey
+Montclair State University
+New Jersey City University
+Rowan University
+Stockton University
+Thomas Edison State University
+William Paterson University of New Jersey
+University of New Mexico
+State University of New York
+East Carolina University
+Elizabeth City State University
+Western Carolina University
+Dickinson State University
+Minot State University
+Cleveland State University
+Ohio University
+University of Toledo
+Cameron University
+University of Oklahoma
+Langston University
+Rogers State University
+University of Oregon
+Portland State University
+University of Rhode Island
+Clemson University
+Lander University
+South Carolina State University
+Dakota State University
+Tennessee State University
+University of Houston
+Midwestern State University
+Stephen F. Austin State University
+Texas State University
+Dixie State University
+University of Utah
+University of Vermont
+Longwood University
+University of Virginia
+Radford University
+University of Washington
+Washington State University
+Concord University
+Fairmont State University
+Marshall University
+University of Wisconsin
+University of Wyoming

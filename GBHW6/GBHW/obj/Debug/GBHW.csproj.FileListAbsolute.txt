@@ -1,0 +1,7 @@
+C:\Users\Energy\Desktop\gb6\GBHW6\GBHW\obj\Debug\GBHW.csprojAssemblyReference.cache
+C:\Users\Energy\Desktop\gb6\GBHW6\GBHW\obj\Debug\GBHW.csproj.CoreCompileInputs.cache
+C:\Users\Energy\Desktop\gb6\GBHW6\GBHW\bin\Debug\GBHW.exe.config
+C:\Users\Energy\Desktop\gb6\GBHW6\GBHW\bin\Debug\GBHW.exe
+C:\Users\Energy\Desktop\gb6\GBHW6\GBHW\bin\Debug\GBHW.pdb
+C:\Users\Energy\Desktop\gb6\GBHW6\GBHW\obj\Debug\GBHW.exe
+C:\Users\Energy\Desktop\gb6\GBHW6\GBHW\obj\Debug\GBHW.pdb
